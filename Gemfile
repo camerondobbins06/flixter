@@ -39,6 +39,8 @@ gem 'carrierwave'
 
 gem 'figaro'
 
+gem 'ranked-model'
+
 #Integrating Stripe service to collect payments
 gem 'stripe'
 
