@@ -39,6 +39,9 @@ gem 'carrierwave'
 
 gem 'figaro'
 
+#Integrating Stripe service to collect payments
+gem 'stripe'
+
 gem 'fog'
 gem 'mini_magick', '~> 4.3.1'
 gem 'carrierwave-aws'
